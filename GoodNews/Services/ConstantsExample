@@ -1,0 +1,6 @@
+
+Create a Constants class and add your API_KEY to make your APP work. Like this:
+
+struct Constants {
+    static let API_KEY = "My API key here"
+}
